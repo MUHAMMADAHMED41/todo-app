@@ -1,0 +1,21 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "todo simple app",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon inde.js"
+  },
+  "keywords": [
+    "todo",
+    "first"
+  ],
+  "author": "ahmed",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "mongoose": "^8.5.1",
+    "nodemon": "^3.1.4"
+  }
+}
